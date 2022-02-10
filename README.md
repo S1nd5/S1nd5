@@ -6,7 +6,7 @@
 * 💞️ I’m looking for a summer job which would start at the end of May. Ready to stay longer if my school related thesis work can be arranged suitably.
 * 🤔 Some of my work might not be presented currently publicly on this profile. I'm planning to add more proof of work during this Spring, i have couple of personal projects that are in wip. If you are a recruiter wanting to see my code and this isn't enough for you, i'm ready to provide a code sample.
 
-📫 Check out my personal website [from here](https://lehtokari.com/Santtu-Lehtokari).
+👉🏼 Check out my personal website [from here](https://lehtokari.com/Santtu-Lehtokari).
 
 ### Previous experience
 * 🏫 Vocational Qualification in Information and Communications Technology from Business College Helsinki. I have some work experience gathered after this graduation. More information related to that is available from my linkedin or my cv.
