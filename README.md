@@ -9,5 +9,7 @@
 📫 Check my personal website [from here](https://lehtokari.com/Santtu-Lehtokari).
 
 ### Previous experience
-* ⚡ I have a Vocational Qualification in Information and Communications Technology from Business College Helsinki. I have some work experience gathered after this graduation, that information is available through [my linkedin profile](https://www.linkedin.com/in/santtu-lehtokari).
-* 💼 Experience gathered from Open Source ERP system, E-commerce, system integrations and full-stack development.
+* ⚡ Vocational Qualification in Information and Communications Technology from Business College Helsinki. I have some work experience gathered after this graduation. More information related to that is available from my linkedin or my cv.
+* 💼 Experience shortly: Worked with Open Source ERP system development, integrations, E-commerce platforms (ePages, Woocommerce), and full-stack development for various purposes (Node/Java/React,Boostrap,JS/HTML/CSS...).
+  * 💠 [LinkedIn profile](https://www.linkedin.com/in/santtu-lehtokari)
+  * 📃 [CV](https://lehtokari.com/Santtu-Lehtokari/LehtokariS_cv.pdf)
