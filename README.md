@@ -3,7 +3,7 @@
 
 * 👋 My name is Santtu Lehtokari and I'm currently studying my bachelor degree in information technology at Haaga-Helia University of Applied Sciences (BBA). Starting my thesis on September.
 * 🌱 I'm currently interested in subjects such as Java, React.js, React Native, Node.js but always open for learning new things. I prefer full-stack development with modern technologies.
-* 🤔 Some of my work might not be presented currently publicly on this profile. I have couple of personal projects that are in wip and some old repos are hidden because they have too junior stuff in those. However, if needed i can showcase them.
+* 🤔 Some of my work might not be presented currently publicly on this profile. I have couple of personal projects that are in wip and some old repos are hidden, because they have too junior stuff in those. However, if needed i can showcase them.
 
 👉🏼 Check out my personal website [from here](https://lehtokari.com/Santtu-Lehtokari).
 
