@@ -6,6 +6,7 @@
 * 🤔 Some of my work might not be presented currently publicly on this profile. I have couple of personal projects that are in wip and some old repos that are hidden. However, if needed i can showcase them.
 * ☠️ Most of my projects are documented... well in a specific way. Please don't do it like me and try to document your projects properly. I just had to get to the integrations world too fast :D 
 * 🤑 Disclaimer: paid work is well documented up to high standards.
+* 🙌 Tips: If you think that documenting is boring, try to use new tools such as (Miro or some productive online tools). Finally the most important tip: never give up and keep trying.
 
 👉🏼 Check out my personal website [from here](https://lehtokari.com/Santtu-Lehtokari).
 
