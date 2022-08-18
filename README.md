@@ -4,7 +4,7 @@
 * 👋 My name is Santtu Lehtokari and I'm currently studying my bachelor degree in information technology at Haaga-Helia University of Applied Sciences (BBA). Starting my thesis on September.
 * 🌱 I'm interested in full-stack development and integrations. I'll enjoy to make things that have an impact in business or peoples lives. Interested in subjects such as Java, React.js, React Native, Node.js but always open for learning new things.
 * 🤔 Some of my work might not be presented currently publicly on this profile. I have couple of personal projects that are in wip and some old repos that are hidden. However, if needed i can showcase them.
-* ☠️ Most of my projects are documented... well in a specific way. Please don't do it like me and try to document your projects properly. I just had to get to the integrations world too fast :D 
+* ☠️ Most of my personal projects are documented... well in a specific way. Please don't do it like me and try to document your projects properly. I just had to get to the integrations world too fast :D 
 * 🤑 Disclaimer: paid work is well documented up to high standards.
 * 🙌 Tips: If you think that documenting is boring, try to use new tools such as (Miro or some productive online tools). Finally the most important tip: never give up and keep trying.
 
